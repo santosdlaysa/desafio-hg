@@ -1,0 +1,26 @@
+
+.cabecalho {
+/* Layout Properties */
+  margin-top: -500px;
+  margin-left: -54.03515625px;
+  width: 1920px;
+  height: 300px;
+  background-color: #1D5297;
+/* UI Properties */
+  opacity: 1;
+ 
+}
+
+.h1 {
+  margin-top: 500px;
+  margin-left: 855px;
+  width: 210px;
+  height: 19px;
+/* UI Properties */
+  text-align: center;
+  font: normal normal 600 10px Montserrat;
+  letter-spacing: 1.6px;
+  color: #B9D0EF;
+  opacity: 1;
+  
+}

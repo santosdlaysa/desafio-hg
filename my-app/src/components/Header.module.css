@@ -1,0 +1,21 @@
+.Appheader {
+  margin-top: 8px;
+  margin-left: 391px;
+  width: 198px;
+  height: 35px;
+  background: transparent 0% 0% no-repeat padding-box;
+}
+
+.App {
+
+  align-items: center;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #B4C6D1;
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  max-height: 51px;
+  min-height: 51px;
+  padding: 0px 15px;
+  margin-top: 0px;
+}
